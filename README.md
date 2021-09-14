@@ -1,3 +1,1 @@
 # rage-client-deobfuscated
-
-$$ qProtect
